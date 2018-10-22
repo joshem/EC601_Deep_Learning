@@ -76,6 +76,8 @@ OR
 
 python3 ImageAI_complex.py
 
+Test runnings can be found in this repo, by looking for the 'new' images, or jpg's with new in the title.  For comparison, look for the file without 'new' in it.
+
 # System Comparison
 ## TensorFlow
 TensorFlow is a very popular machine learning tool developed by Google.  It is very well documented, and is constantly getting updated and improved upon.  It is very extensive, however, the documentation is equally as intensive, and there are great tutorials, both from Google and from third party groups.  It uses Keras, which is a fantastic API in order to create neural networks.  TensorFlow requires that you teach your machine, meaning that you must create your own models.  However the documentation to do this is very extensive, and some programs to do this are even provided.
