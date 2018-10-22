@@ -1,0 +1,15 @@
+testCar.jpg
+cars 0.99988115
+train 0.00011882853
+
+testCarBlurry.jpg
+cars 0.74984735
+train 0.25015265
+
+testTrain.jpg
+train 0.9996586
+cars 0.00034138633
+
+testTrainBlurry.jpg
+train 0.9999548
+cars 4.515491e-05
